@@ -1,0 +1,40 @@
+<details>
+	<info>
+      <id>1</id>
+	<name>john carter</name>
+	<address>
+		<house>38</house>>
+		<road>12</road>>
+		<area>bonani</area>
+		<city>dhaka</city>
+	</address>
+	<department>seles</department>
+	<salary>$20000</salary>
+</info>
+<info>
+
+	<id>29</id>
+	<name>Bob marshal</name>
+	<address>
+		<flat>A/1</flat>>
+		<house>20</house>>
+		<road>18</road>>
+		<area>mirpur</area>
+		<city>dhaka</city>
+	</address>
+	<department>account</department>
+	<salary>$12000</salary>
+</info>
+<info>
+
+	<id>35</id>
+	<name>clark kent</name>
+	<address>
+		<house>38</house>>
+		<road>3</road>>
+		<area>motijheel</area>
+	</address>
+	<department>human resourse</department>
+	<salary>$30000</salary>
+</info>
+</details>
