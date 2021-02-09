@@ -1,0 +1,65 @@
+
+
+
+
+
+ <!DOCTYPE html>
+ <html>
+ <head>
+
+	<title> Table Example</title>
+</head>
+<body>
+	<table border="1" width="100%" align="center">
+		<tr align="center">
+			
+			<td colspan="3" height="80px" align="center">
+
+				<b>First HTML Site</b>			
+			</td>
+		</tr>
+		<tr align="left" height="300px" >
+			<td width="250px">
+				<ol>
+					<li>
+					 <a href="page1.html">
+				page1</a>
+			</li>
+				<li>
+				 <a href="page-2.html">
+				page2</a>
+			</li>
+				</ol>
+			</td>
+			<td>
+				<b>Page-1</b>
+				i am at page -1
+			</td>
+			<td width="250px">
+				<ol>
+					<ol>
+					<li>
+					 <a href="page1.html">
+				google</a>
+			</li>
+				<li>
+				 <a href="page-2.html">
+				yahoo</a>
+			</li>
+				<li>
+					<a href="page1.html">
+				microso</a>
+				</li>
+				</ol>
+			</td>
+		</tr>
+
+	
+		<tr align="center" >
+			<td colspan="3" height="50px">
+				Copyright
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
