@@ -4,27 +4,44 @@
 	<title>Admin Page</title>
 </head>
 <body>
-	<table border="1" align="center">
+	<table  border="1" align="center" width="40%">
 		<tr>
 			<td>
-				<b>Welcome Bob!</b>
+
+
+	<table align="center"  width="90%">
+		<tr>
+			<td   align="center" >
+				<b> <b>Welcome Bob!</b></b>
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td align="center" >
 				<a href="profile.php">Profile</a>
 			</td>
-			<td>
+		</tr>
+		<tr>
+			<td  align="center" >
 				<a href="changepass.php">Change Password</a>
 			</td>
-			<td>
+		</tr>
+		<tr>
+			<td  align="center" >
 				<a href="viwe.php">Viwe User</a>
 			</td>
-			<td>
+		</tr>
+		<tr>
+			<td  align="center" >
 				<a href="logout">Logout</a>
 			</td>
+		</tr>
 
-	</table>
+
+</tr>
+</table>
+</td>
+</tr>
+</table>
 
 </body>
 </html>
