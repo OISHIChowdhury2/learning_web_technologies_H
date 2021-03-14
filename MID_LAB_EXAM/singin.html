@@ -1,43 +1,56 @@
+
+				
 <!DOCTYPE html>
 <html>
 <head>
 	<title></title>
 </head>
 <body>
-	<form>
-		<fieldset>
-			<legend>LOGIN</legend>
-			<table>
+
+	<form method="post" action="logincheck.php" >
+		
+
+				<table width="50%" align="center" border="2" >
 				<tr>
 					<td>
-						<label>User Id</label>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<input type="text" name="usename">
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<label>Password</label>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<input type="Password" name="Password">
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<input type="submit" name="Login">
-						<a href="reg.php" name="Resister">Resister
-						</a>
-					</td>
-				</tr>
-			</table>
-		</fieldset>
-	</form>
+						<table align="center">
+							<tr>
+								<td>
+									<br>
+			<label>User Name</label>   
+       
+      </td>
+      <tr>
+      	<td>
+          <input type="text" name="username">   
+          
+      </td>
+  </tr>
+  <tr>
+  	<td>
+          <label>Password</label>
+       
+       </td>
+   </tr>
+   <tr>
+   	<td>
+          <input type="password" name="password">
+          </td>
+      </tr>
+      <tr>
+      	<td>
+      		<br>
+          <input type="submit" name="submit" value="Login" align="right">
+          <a href="forgot.php">Forget Password</a>
+        </td>
+    </tr>
+      
+         <tr>
+         	<td>
+         		<br>
+        <a href="signup.html">Signup</a>
+      </td>
+  </tr>
 
 </body>
 </html>
