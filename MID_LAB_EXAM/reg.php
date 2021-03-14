@@ -53,7 +53,7 @@
 					<td>
 					<form>
   <input type="radio"  name="user" value="user">
-  <label for="male">user</label><br>
+  <label for="male">User</label><br>
   <input type="radio"  name="Admin" value="Admin">
   <label for="female">Admin</label><br>
 
@@ -62,7 +62,7 @@
 </tr>
 <tr>
 	<td>
-		<input type="submit" name="submit"><span>Sing UP</span>
+		<input type="submit" name="submit">
 		<a href="singin.html">Sing In</a>
 	</td>
 </tr>
